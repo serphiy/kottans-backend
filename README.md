@@ -109,3 +109,6 @@ Address examples:
 - MMS - `7f1140cb9000-7f1140cba000`
 
 The structure of memory addresses was completly new to me, I was really surprised how easy a memory leak in JavaScript can be introduced. I'll use all given strategies and tools for avoiding and healing memory leaks.
+
+## TCP. UDP. Network
+[<img src="task_networks/internet-101.png" alt="internet-101" width="500" />](task_networks/internet-101.png)
