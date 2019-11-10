@@ -112,3 +112,4 @@ The structure of memory addresses was completly new to me, I was really surprise
 
 ## TCP. UDP. Network
 [<img src="task_networks/internet-101.png" alt="internet-101" width="500" />](task_networks/internet-101.png)
+[<img src="task_networks/networking-for-web.png" alt="networking-for-web-developers" width="500" />](task_networks/networking-for-web.png)
